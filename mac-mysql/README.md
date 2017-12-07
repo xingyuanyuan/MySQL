@@ -4,7 +4,7 @@
 
 [mac安装mysql的两种方法（含配置）](http://www.jianshu.com/p/fd3aae701db9)
 
-##2.在这篇文章底部找到作者发布的mysql的百度云地址，点进去就能下载
+## 2.在这篇文章底部找到作者发布的mysql的百度云地址，点进去就能下载
 
 [mysql百度云地址](https://pan.baidu.com/s/1slJAgqh)
 
