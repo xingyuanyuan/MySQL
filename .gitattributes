@@ -1,3 +1,3 @@
-* .js linguist-language=sql
-* .css linguist-language=sql
-* .html linguist-language=sql
+* .js linguist-language=mysql
+* .css linguist-language=mysql
+* .html linguist-language=mysql
